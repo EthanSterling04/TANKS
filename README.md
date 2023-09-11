@@ -9,7 +9,7 @@ A two-player game where you fight each other in tanks! The last one standing win
 * Press 1 or 2 to choose a map and space to begin the fight!
 * Light yellow walls can be broken with a bullet and will turn into gold walls. Gold walls can be shot through but you still cannot move through them.
 
-### Specifications:
+## Specifications:
 
 1. The players can choose between a number of maps to play on
 2. The map is made by placing walls and breakable walls in set positions based on the map chosen
@@ -22,3 +22,7 @@ A two-player game where you fight each other in tanks! The last one standing win
 9. After a duration, the missile is destroyed
 10. If a missile hits a tank, the tank is destroyed and life is deducted from the player, every missile on the board is destroyed and both tanks respawn at their respective starting positions
 11. After a player runs out of lives, the game ends, and the player with the remaining lives is set to be the winner
+
+## Gameplay:
+
+![Tanks gameplay](https://github.com/EthanSterling04/TANKS/assets/60374501/249f7816-a259-46aa-9b05-df0a800ca6c2)
